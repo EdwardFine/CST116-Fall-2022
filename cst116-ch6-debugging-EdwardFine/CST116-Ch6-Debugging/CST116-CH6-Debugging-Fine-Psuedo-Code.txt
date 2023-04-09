@@ -1,0 +1,12 @@
+Enter temperature in Fahrenheit: 212
+212 degrees F = 100 degrees C
+
+C:\Users\edfin\Source\Repos\cst116-ch6-debugging-EdwardFine\CST116-Ch6-Debugging\x64\Debug\CST116-Ch6-Debugging.exe (process 22656) exited with code 0.
+Press any key to close this window . . .
+
+Pseudo Code
+Create floats celcius and fahrenheit
+cout "Enter temperature in Fahrenheit: "
+cin and assign value to fahrenheit
+calculate celcius from fahrenheit
+cout (fahrenheit) degrees F = (celcius) degrees C
