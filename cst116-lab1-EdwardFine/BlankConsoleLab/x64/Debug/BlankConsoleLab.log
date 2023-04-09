@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Cst116-Lab1-EdwardFine.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CST116-Lab1-Fine.cpp
+C:\Users\edfin\source\repos\cst116-lab1-EdwardFine\BlankConsoleLab\CST116-Lab1-Fine.cpp(66,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BlankConsoleLab.vcxproj -> C:\Users\edfin\source\repos\cst116-lab1-EdwardFine\x64\Debug\BlankConsoleLab.exe

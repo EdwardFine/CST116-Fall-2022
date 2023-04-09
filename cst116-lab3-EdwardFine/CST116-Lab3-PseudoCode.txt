@@ -1,0 +1,8 @@
+Prompt user to input where they want the output file to go and what to call it.
+Prompt the user to input where the input file is and what it is called.
+Open the input and output files, if there is an error opening the files, shutdown program.
+Once files are open, read all input data and tally total.
+Transcribe input into the output file in a neat grid.
+Calculated Total Fare and Cost per mile and add that onto the output file.
+Close output and input files.
+End Program.

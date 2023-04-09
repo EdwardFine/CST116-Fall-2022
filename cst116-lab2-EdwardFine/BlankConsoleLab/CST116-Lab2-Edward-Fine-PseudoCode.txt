@@ -1,0 +1,5 @@
+Figure out if the user is inputting in celcius or fahrenheit.
+prompt the user to input their respected temperature. If it was inputted into celcius, convert to fahrenheit.
+Ask the user for the wind speed.
+Using the two values given, calulate the wind chill.
+Display the windchill to the user.
