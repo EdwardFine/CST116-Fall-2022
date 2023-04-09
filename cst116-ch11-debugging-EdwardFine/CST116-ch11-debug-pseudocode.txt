@@ -1,0 +1,3 @@
+Open and read an input file.
+Open an output file.
+Transcribe the input file to the output file.
