@@ -1,0 +1,16 @@
+You have $123.45
+Enter percent raise (in decimal form): .15
+After your raise you have $141.967
+
+C:\Users\edfin\Source\Repos\cst116-lab0-debugging-EdwardFine\Ch 5 Debugging Project\x64\Debug\Ch 5 Debugging Project.exe (process 20120) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+Pseudo Code
+Float Money with an exact number
+Float Raise as a placeholder number
+cout current money
+cin for the percent raise in decimal form, overwrite raise with decmial.
+Internally mulitply the raise and money and overwrite raise with the new value.
+Add raise to money
+cout updated money.

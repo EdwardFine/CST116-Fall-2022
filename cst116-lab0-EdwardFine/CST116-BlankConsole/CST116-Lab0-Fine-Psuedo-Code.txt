@@ -1,0 +1,11 @@
+Hello World!
+My name is Edward and my github is EdwardFine
+
+C:\Users\edfin\Source\Repos\cst116-lab0-EdwardFine\CST116-BlankConsole\x64\Debug\CST116-BlankConsole.exe (process 17664) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+Pseudo Code
+Establish the use of cout and endl with the using comand
+cout "Hello World!"
+cout "My name is Edward and my github is EdwardFine"
