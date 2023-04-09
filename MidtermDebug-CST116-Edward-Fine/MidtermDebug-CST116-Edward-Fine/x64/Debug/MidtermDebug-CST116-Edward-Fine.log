@@ -1,0 +1,3 @@
+﻿  MidtermDebug-CST116-Edward-Fine.cpp
+C:\Users\edfin\source\repos\MidtermDebug-CST116-Edward-Fine\MidtermDebug-CST116-Edward-Fine\MidtermDebug-CST116-Edward-Fine.cpp(32,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MidtermDebug-CST116-Edward-Fine.vcxproj -> C:\Users\edfin\source\repos\MidtermDebug-CST116-Edward-Fine\x64\Debug\MidtermDebug-CST116-Edward-Fine.exe
