@@ -1,0 +1,14 @@
+Please enter your age: 20
+20! Boy are you old!
+Did you know that you are at least 7300 days old?
+
+
+C:\Users\edfin\Source\Repos\cst116-ch8-debugging-EdwardFine\CST116-Ch9-Debugging\x64\Debug\CST116-Ch9-Debugging.exe (process 20972) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+Ask user for their age through the command prompt and assign the input to int age.
+Take the given age and calculate their age in days. (Age*365)
+Print on command prompt their age, with the additional phrase "! Boy are you old!"
+Then print on command prompt "Did you know that you are at least "  int days  " days old?"

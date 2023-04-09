@@ -1,0 +1,15 @@
+Enter your age: 10
+Child
+
+C:\Users\edfin\Source\Repos\cst116-ch7-debugging-EdwardFine\CST116-Ch7-Debugging\x64\Debug\CST116-Ch7-Debugging.exe (process 19216) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+Pseudo Code
+
+Read command prompt input and assign input as to int age.
+Check if age =1, if true then print out First Birthday.
+else check if age >= 12 and age <= 19, if true then print out Teenager.
+Else check if age <12, if true then print out Child.
+Else check if age >62, if true then print out Senior.
+If none is true, then print out Adult.
